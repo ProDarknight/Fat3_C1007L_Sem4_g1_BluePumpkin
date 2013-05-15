@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello Every Body Group 1</h1>
+        <h1>Hello Every Body Group 1 Blue Pumpkin</h1>
     </body>
 </html>
